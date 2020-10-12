@@ -21,7 +21,7 @@ body{
 	border-radius: 5px;
 	margin:1rem;
 	font-size:1.5rem;
-	padding:1rem .5rem;
+	padding:1rem .5rem 1rem .5rem;
 	transition:all 0.07s;
 	width:80px;
 	text-align:center;
